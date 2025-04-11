@@ -8,7 +8,7 @@
 
 3: ASP.NET Identity voor login/registratie
 
-4: SQL Server (of SQLite)
+4: SQL Server
 
 5: Chart.js voor grafieken (optioneel later)
 
