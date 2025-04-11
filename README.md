@@ -2,7 +2,7 @@
 
 ⚙️ Stack
 
-1: ASP.NET Core 8 MVC
+1: ASP.NET Core 9 MVC
 
 2: Entity Framework Core
 
